@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/worldMappApp/static/css/main.0bd5fe0a.css",
+    "main.js": "/worldMappApp/static/js/main.858e9385.js",
+    "index.html": "/worldMappApp/index.html",
+    "main.0bd5fe0a.css.map": "/worldMappApp/static/css/main.0bd5fe0a.css.map",
+    "main.858e9385.js.map": "/worldMappApp/static/js/main.858e9385.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bd5fe0a.css",
+    "static/js/main.858e9385.js"
+  ]
+}
