@@ -1,0 +1,76 @@
+*{
+    margin:0px;
+    box-sizing: border-box;
+    padding: 0px;
+}
+body{
+    background-color:whitesmoke;
+     
+}
+.leaflet-container{
+    /* background-color: rgb(132, 185, 228); */
+    background-color: transparent;
+    border: 2px solid gainsboro;
+    border-radius: 5px;
+}
+.country-map{
+    fill:skyblue;
+    fill-opacity: 0.5;
+}
+.searchBar input{
+    padding:  3px 5px;
+}
+.searchBar input[type="text"]
+{
+    width:40%;
+    border: none;
+    border-bottom:1px solid gainsboro;
+    outline: none;
+
+}
+
+
+.countryDetails-Container{
+    height: 90vh;
+    overflow:auto;
+    
+    
+}
+
+/* width */
+::-webkit-scrollbar {
+    width:5px;
+    border-radius:5px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background:efefef; 
+    border-radius: 5px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background:gainsboro; 
+    border-radius: 5px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #888; 
+    border-radius: 5px;
+  }
+
+table th{
+    padding:2px 3px;
+    text-transform: capitalize;
+}
+table td {
+    font-weight:400;
+}
+.lang-btn{
+    background-color: orange;
+    margin-left: 1px;
+    padding: 0px 2px;
+
+}
